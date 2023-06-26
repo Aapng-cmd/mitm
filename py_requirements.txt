@@ -1,0 +1,5 @@
+shlex
+netifaces
+subprocess
+argparse
+prettytable
