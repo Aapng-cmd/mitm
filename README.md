@@ -10,4 +10,4 @@ mitm.py -i {interface}
 Set interface to sniff
 
 # DLC for bash
-apt install dsniff nmap
+apt install dsniff nmap -y
