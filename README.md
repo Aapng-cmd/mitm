@@ -8,3 +8,6 @@ Python + bash tool for doing arpsoopf
 mitm.py -i {interface}
 
 Set interface to sniff
+
+# DLC for bash
+apt install dsniff nmap
