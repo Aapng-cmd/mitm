@@ -4,17 +4,13 @@ Tool for Man-in-the-middle attack (for linux)
 ### Descriptiom
 Python + bash tool for doing arpsoopf
 
-### Usage
-mitm.py -i {interface}
-
-Set interface to sniff
-
 ### DLC for bash
 apt install dsniff nmap -y
 
 ### Usage
 
 -i --- specifies the interface to sniff
+
 -f --- file to write result of sniffing
 
 > You can start mitm without -f
