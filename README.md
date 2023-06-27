@@ -1,5 +1,5 @@
 # mitm
-Tool for mitm (for linux)
+Tool for Man-in-the-middle attack (for linux)
 
 ### Descriptiom
 Python + bash tool for doing arpsoopf
